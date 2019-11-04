@@ -17,12 +17,6 @@
 			<a>{{ credits }} </a>
 			</router-link>
 		</div>
-		<div class="BackToTop">
-			<router-link
-			to="#app">
-			<a>{{ credits }} </a>
-			</router-link>
-		</div>
 	</div>
 	</div>
 </template>
